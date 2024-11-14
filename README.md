@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left"I'm currently learning and coding with</h2>
+<h2 align="left">I'm currently learning and coding with</h2>
 
 ###
 
@@ -26,7 +26,6 @@
   <img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" height="40" alt="html logo"  />
   <img width="12" />
 
-  
 </div>
 
 ###
