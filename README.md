@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ I'm interested in relearning programming and perhaps making a career transition<br>📚 🌱 I'm currently remembering the Python and Ruby content<br>😄 Pronouns: they/them<br>⚡ Fun fact: Whatever I can do as a form of gamification and learning in my daily life, I will do</p>
+<p align="left">✨ I'm interested in relearning programming and perhaps making a career transition<br>📚 🌱 I'm currently remembering the contents of Programming Logic, HTML, Python and Ruby on Rails<br>😄 Pronouns: they/them<br>⚡ Fun fact: Whatever I can do as a form of gamification and learning in my daily life, I will do. I program while listening to indie rock from different countries</p>
 
 ###
 
-<h2 align="left">I'm actually learning and code with</h2>
+<h2 align="left"I'm currently learning and coding with</h2>
 
 ###
 
