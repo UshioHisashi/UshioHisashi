@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">You can call me what Hisa.</p>
+<p align="left">You can call me Hisa.</p>
 
 ###
 
